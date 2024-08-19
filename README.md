@@ -1,5 +1,4 @@
 # Credit_Card_Financial_Dashboard
-# Credit_Card_Financial_Dashboard-Public
 
 ## Challenge:
 
@@ -152,7 +151,7 @@ Previous_week_Reveneue = CALCULATE(
 
  - Clone the repository:
 ```
-
+https://github.com/AnnapurnaSS/Credit_Card_Financial_Dashboard.git
 ```
 - Set up the MSSQL database and import the data using the provided SQL scripts.
 - Open the Power BI dashboard file and connect it to the MSSQL database.
